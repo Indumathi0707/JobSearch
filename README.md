@@ -43,7 +43,7 @@ Git: Download and install Git [https://git-scm.com/]
 
 Steps that you need to follow to clone the project:
 
-Step 1: Clone the Repository: https://github.com/Indumathi0707/JobSearch.git
+Step 1: Clone the Repository: git clone https://github.com/Indumathi0707/JobSearch.git
 
 Step 2: Navigate to the Project Directory: cd Frontend
 
