@@ -37,11 +37,11 @@ Prerequisites
 
 Ensure that the following are installed on your system:
 
-Node.js: Download and install Node.js
+Node.js: Download and install Node.js [https://nodejs.org/en]
 
-Git: Download and install Git
+Git: Download and install Git [https://git-scm.com/]
 
-Steps that you need to clone the project:
+Steps that you need to follow to clone the project:
 
 Step 1: Clone the Repository: https://github.com/Indumathi0707/JobSearch.git
 
