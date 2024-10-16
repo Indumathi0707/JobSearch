@@ -37,10 +37,10 @@ Ensure that the following are installed on your system:
 
 Steps that you need to clone the project:
 
-1. Clone the Repository: https://github.com/Indumathi0707/JobSearch.git
-2. Navigate to the Project Directory: cd Frontend
-3. Install Dependencies: npm install
-4. Start the Application: npm run dev
+Step 1: Clone the Repository: https://github.com/Indumathi0707/JobSearch.git
+Step 2: Navigate to the Project Directory: cd Frontend
+Step 3: Install Dependencies: npm install
+Step 4: Start the Application: npm run dev
 
 5. Usage
 --------
